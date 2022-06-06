@@ -25,3 +25,5 @@ $ cd script
 
 $ python scrip.py
 ```
+Mau recode file ini harus izin dulu
+Sama fanora gans
