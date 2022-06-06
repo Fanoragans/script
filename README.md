@@ -23,7 +23,7 @@ $ git clone https://github.com/Fanoragans/script
 
 $ cd script
 
-$ python scrip.py
+$ python script.py
 ```
 Mau recode file ini harus izin dulu
 Sama fanora gans
